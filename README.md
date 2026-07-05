@@ -59,7 +59,6 @@ Multiplayer support, both in LAN and Online.
 
 This project is more a sandbox for me to practice, learn, or keep some patterns / tools ready to be re-used. I prioritize **learning** over feature completeness. 
 
-<br>
 ![Editor Image](Thumbnail.png)
 
 ---
